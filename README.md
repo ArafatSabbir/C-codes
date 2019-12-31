@@ -1,4 +1,2 @@
-# C-codes
-
-Online judge Problem solved By C
+# Online judge Problem solved By C 
 
