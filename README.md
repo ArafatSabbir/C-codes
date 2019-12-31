@@ -1,4 +1,4 @@
 # C-codes
 
-Uri online judge Problem solved with C
+Online judge Problem solved By C
 
